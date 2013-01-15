@@ -7,8 +7,16 @@ Installation
 ------------
 
 ```bash
+pip install django-forceadminlanguage
+```
+
+or
+
+```bash
 pip install git+git://github.com/Brick85/django_forceadminlanguage.git
 ```
+
+
 
 Usage
 -----
