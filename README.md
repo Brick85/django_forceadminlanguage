@@ -1,5 +1,5 @@
-Force Admin Middleware
-=========================
+Force Admin Language Middleware
+===============================
 
 Force Django Admin to show in one selected language.
 
