@@ -33,8 +33,8 @@ ADMIN_LANGUAGE_CODE = 'en'
 Additional Settings
 -------------------
 
-ADMIN_LANGUAGE_IGNORE_PATH
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+### ADMIN_LANGUAGE_IGNORE_PATH ###
+
 
 If requests starts with this path admin language shouldn't be forced. Example:
 
